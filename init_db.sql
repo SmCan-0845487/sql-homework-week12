@@ -1,6 +1,4 @@
 -- init_db.sql
--- 執行指令： sqlite3 lab_inventory.db < init_db.sql
-
 DROP TABLE IF EXISTS equipment;
 
 CREATE TABLE equipment (
