@@ -7,7 +7,7 @@
 ## 步驟 1：建立資料庫
 在 VS Code 終端機 (Terminal) 輸入以下指令，將初始資料匯入：
 
-sqlite3 lab_inventory.db < init_db.sql
+```sqlite3 lab_inventory.db < init_db.sql```
 
 
 ## 步驟 2：寫作業
